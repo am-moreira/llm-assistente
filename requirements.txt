@@ -1,0 +1,12 @@
+python-dotenv
+groq
+chromadb
+
+langchain-community
+langchain-core
+langchain-chroma
+langchain-groq
+langchain-google-community
+langchain-google-genai
+langchain-huggingface
+langchain-openai
